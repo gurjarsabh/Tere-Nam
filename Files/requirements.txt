@@ -1,0 +1,11 @@
+Flask
+flask-cors
+requests
+beautifulsoup4
+yt-dlp
+user_agent
+python-telegram-bot==21.6
+pymongo
+dnspython
+python-dotenv
+gunicorn
